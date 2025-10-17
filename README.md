@@ -1,4 +1,4 @@
-# MIS-Analysis---creating-data-of-student-in-US
+Student-Recruitment-Data-Generator
 
 
 ## 📋 Project Overview
