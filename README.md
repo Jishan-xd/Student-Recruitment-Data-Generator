@@ -4,6 +4,10 @@ Student-Recruitment-Data-Generator
 ## 📋 Project Overview
 This project generates synthetic data of recently passed out students in the United States for recruiting and staffing operations. Created as part of a Data Analysis Internship assignment.
 
+## 📊 Dashboard Preview
+<img width="1399" height="784" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/18c39384-e0f7-4150-b0a1-0a012ea8ec68" />
+
+
 ## 🎯 Objective
 Generate realistic student data to support:
 - Recruiting analytics and candidate matching
